@@ -118,6 +118,8 @@ h3{
 h5{
     color:white;
     text-align: justify;
+	width: 98%;
+	align-items: right;
 }
 span{
     padding-right: 10px;
